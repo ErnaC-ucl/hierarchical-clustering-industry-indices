@@ -1,6 +1,8 @@
 # hierarchical-clustering-industry-indices
 Implementation of hierarchical clustering on market-cap weighted industry index data obtained from Ken French’s website (http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html). 
 
+# Summary of the project 
+
 In this report I have impemented an hierarchical clustering algorithm with a Spearman correlation-based
 distance to measure dissimilarity between observations, and complete linkage to estimate
 dissimilarities between clusters. I have found an optimal number of 6 clusters and concluded that the 
